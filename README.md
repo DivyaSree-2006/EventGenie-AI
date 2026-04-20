@@ -20,6 +20,7 @@ EventGenie AI is an AI-powered event assistant web application built using Strea
 app.py
 background.jpg
 requirements.txt
+README.md
 ```
 
 ## How to Run
